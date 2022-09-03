@@ -22,6 +22,10 @@ Then simply copy the files into the your project and add them to the compile pat
 
 Add the `setup`, `update` and `draw` method to your app.
 
+### Processing
+
+Add them to your project? I don't know how Processing handles this?
+
 ## License
 
 GPL-2.0
